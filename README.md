@@ -4,7 +4,7 @@ An interactive rating component built as a challenge from Frontend Mentor. It al
 
 ## Demo
 
-[Site]()
+[Site](https://wgalik.github.io/interactive-rating-component-main-SCSS-postcss-TS-/)
 
 ## Technologies
 
